@@ -40,13 +40,13 @@ LoRa-Based-Home-Automation/
 ![Block Diagram](Schematics/Block_Diagram.png)
 
 ### Transmitter Circuit
-![Transmitter Circuit](Schematics/Tx_Circuit.png)
+![Transmitter Circuit](Schematics/Tx_Circuit.jpg)
 
 ### Receiver Circuit 
-![Receiver Circuit](Schematics/Rx_Circuit.png)
+![Receiver Circuit](Schematics/Rx_Circuit.jpg)
 
 ### Final Output
-![Final Output](Schematics/Final_Output.png)
+![Final Output](Schematics/Final_Output.jpg)
  
 ### Output Demo
 ![Output Demo](Schematics/Output_Video.gif)
