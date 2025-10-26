@@ -52,7 +52,7 @@ LoRa-Based-Home-Automation/
 ![Output Demo](Schematics/Output_Video.gif)
 
 ### Output Full Video 
-![Output Full Video](Schematics/Output_Video.mp4)
+[![Output Demo](Schematics/output_video_thumbnail.jpg)](https://drive.google.com/file/d/1jNHrHwkPXUkkM4JPjAeco0OXrOQGzfVR/view?usp=sharing)
 
 ---
 
