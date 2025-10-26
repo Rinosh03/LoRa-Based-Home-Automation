@@ -18,19 +18,13 @@
 
 ---
 
-## Folder Structure 
+## Objectives
 
-LoRa-Based-Home-Automation/
-├── README.md
-├── Transmitter_Code/
-│ └── transmitter.ino
-├── Receiver_Code/
-│ └── receiver.ino
-└── Schematics/
-├── block_diagram.png
-├── circuit_diagram.png
-├── output_demo.gif
-└── output_demo.mp4
+- To design a wireless control system for high-voltage appliances using LoRa module.
+- Ensure reliability with a feedback mechanism for device monitoring.
+- Develop a scalable, low-power wireless communication solution for diverse use cases.
+
+
 
 ---
 
