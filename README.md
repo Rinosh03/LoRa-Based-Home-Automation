@@ -60,6 +60,15 @@
 
 - Can be extended with more relays or IoT integration.
 
+## Conclusion
+
+- Successful wireless control of appliances over several kilometers.
+
+- Reliable feedback mechanism for device monitoring.
+
+- Scalable for future IoT-based home automation and industrial project
+
+
 ### Notes
 
 - Ensure LoRa addresses match between transmitter and receiver.
